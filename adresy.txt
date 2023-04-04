@@ -6,3 +6,4 @@ yahoo.com
 wp.pl
 wp.pl
 xx
+192.168.0.21

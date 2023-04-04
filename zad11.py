@@ -1,4 +1,4 @@
-word = input('Podaj wyraz')
+word = input('Podaj wyraz ')
 #print(word.lower())
 # word[0] - pierwsza litera, or lub
 # == porównanie wartości
